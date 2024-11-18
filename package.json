@@ -1,0 +1,28 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "Тебе предстоит реализовать 15 функций для работы со строками.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest -i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/part-time-javascript-elbrus-bootcamp/grok-string-methods.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/part-time-javascript-elbrus-bootcamp/grok-string-methods/issues"
+  },
+  "homepage": "https://github.com/part-time-javascript-elbrus-bootcamp/grok-string-methods#readme",
+  "devDependencies": {
+    "eslint": "^8.39.0",
+    "jest": "^29.5.0",
+    "prettier": "^2.8.8"
+  }
+}
